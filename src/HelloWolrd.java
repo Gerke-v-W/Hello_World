@@ -4,5 +4,6 @@ public class HelloWolrd {
         System.out.println("Test it again");
         Test test = new Test();
         test.printLine();
+        System.out.println(test.multiply(6, 3));
     }
 }
