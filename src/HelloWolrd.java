@@ -5,5 +5,6 @@ public class HelloWolrd {
         Test test = new Test();
         test.printLine();
         System.out.println(test.multiply(6, 3));
+        test.printAnotherLine();
     }
 }
